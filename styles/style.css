@@ -16,6 +16,9 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1,
@@ -41,13 +44,9 @@ ol {
   padding: 133px 30px;
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   inline-size: 1200px;
   gap: 30px;
-}
-
-.result {
-  align-self: flex-end;
 }
 
 .search-form {
