@@ -138,7 +138,6 @@ ol {
   width: 19px;
   height: 19px;
   border: 1px solid #FFF;
-  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -149,7 +148,6 @@ input[type='checkbox']:checked + span::after {
   width: 15px;
   height: 15px;
   background-color: #FFF;
-  position: absolute;
 }
 
 
