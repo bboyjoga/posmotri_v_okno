@@ -41,9 +41,13 @@ ol {
   padding: 133px 30px;
   display: flex;
   justify-content: center;
-  align-items: flex-end;
+  align-items: center;
   inline-size: 1200px;
   gap: 30px;
+}
+
+.result {
+  align-self: flex-end;
 }
 
 .search-form {
