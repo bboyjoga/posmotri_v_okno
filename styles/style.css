@@ -87,6 +87,10 @@ ol {
   padding-bottom: 30px;
 }
 
+.content__list-item {
+  overflow-x: hidden;
+}
+
 .content__video-card {
   display: flex;
   align-items: flex-start;
